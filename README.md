@@ -55,7 +55,7 @@ El propósito principal de este proyecto es proporcionar a la agencia herramient
 - [Lesiones](https://www.kaggle.com/datasets/icliu30/nba-player-stats-and-injured-data-from-13-to-23)
 
 
-Descripción de los Datos:
+Descripción de los Datos :
 
 ### Archivos CSV
 
