@@ -29,7 +29,7 @@ Este proyecto ha sido desarrollado por un equipo multidisciplinario compuesto po
 
 ## 🔹 Contexto del Proyecto 🔹
 
-SmartPro Analytics ha sido contratada por una agencia de representación deportiva que está incursionando en el competitivo mercado de la NBA. La agencia busca evaluar de manera objetiva el rendimiento de sus jugadores y equipos para mejorar las negociaciones de contratos y tomar decisiones estratégicas, así como ampliar su cartera de jugadores para posicionarse mejor en el mercado.
+SmartPro Analytics ha sido contratada por una agencia de representación deportiva que está incursionando en el competitivo mercado de la NBA. La agencia busca evaluar de manera objetiva el rendimiento de sus jugadores y equipos para mejorar las negociaciones de contratos y tomar decisiones estratégicas, así como ampliar su cartera de jugadores para posicionarse mejor en el mercado
 
 ## 🔹 Propósito y Objetivos 🔹
 
