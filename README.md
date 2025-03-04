@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Bienvenidos al repositorio del proyecto final de **SmartPro Analytics**, una consultora especializada en análisis de datos.
+Bienvenidos al repositorio del proyecto final de **SmartPro Analytics**, una consultora especializada en análisis de datos
 
 Este proyecto ha sido desarrollado por un equipo multidisciplinario compuesto por expertos en ingeniería de datos, ciencia de datos y análisis de datos. A continuación, presentamos a los integrantes del equipo:
 
